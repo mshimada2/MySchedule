@@ -1,0 +1,36 @@
+table{
+
+  text-align: left;
+}
+
+tr{
+width: 20%;
+
+}
+
+th{
+
+text-decoration: underline;
+font-weight: bold;
+width: 90px;
+}
+
+td:hover{
+background-color: rgb(255,255,0);
+color: rgb(255,0,0);
+
+}
+
+.red{
+  background-color: rgb(255,0,0);
+}
+
+.purple{
+
+background-color: rgb(164,0,182);
+color: rgb(0,255,0);
+
+}
+
+
+/* Color Palettes adapted from:https://www.w3schools.com/css/css_colors.asp    */
